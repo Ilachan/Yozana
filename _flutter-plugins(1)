@@ -1,0 +1,16 @@
+cloud_firestore=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.12.7\\
+firebase_auth=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.11.1+8\\
+firebase_core=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.4.0+6\\
+firebase_database=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_database-3.0.4\\
+firebase_messaging=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_messaging-5.1.2\\
+firebase_storage=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-3.0.3\\
+geolocator=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator-5.1.0\\
+google_api_availability=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_api_availability-2.0.1\\
+google_maps_flutter=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_maps_flutter-0.5.19+2\\
+google_sign_in=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in-4.0.4\\
+location_permissions=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location_permissions-2.0.2\\
+path_provider=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.1.0\\
+permission_handler=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\permission_handler-3.2.0\\
+share=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\share-0.6.1+1\\
+shared_preferences=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.2+1\\
+sqflite=D:\\Program Files\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\sqflite-1.1.5\\
